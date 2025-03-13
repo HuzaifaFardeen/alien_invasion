@@ -1,0 +1,3 @@
+make a game
+we have a spaceship that shoots alien fleets. when one fleet is defeated 
+next one comes fastere. three lives. our ship only moves left and right.
